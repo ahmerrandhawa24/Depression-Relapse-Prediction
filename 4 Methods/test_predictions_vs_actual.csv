@@ -1,0 +1,3 @@
+Year,Exp_Total,Ctrl_Total,Ctrl_Relapse,Mean_Age_Exp,Mean_Age_Ctrl,Female_%_Exp,Female_%_Ctrl,Baseline_HRSD_Exp,Baseline_HRSD_Ctrl,Baseline_BDI_Exp,Baseline_BDI_Ctrl,Previous_Episodes,Medication_%_Exp,Medication_%_Ctrl,No_of_Sessions,Duration_Weeks,Followup_Months,Relapse_Rate_Exp,Relapse_Rate_Ctrl,Actual_Relapse,Predicted_Relapse
+2015.0,33.0,35.0,13.0,51.97,51.67,73.0,71.0,6.0,8.0,12.0,12.0,5.0,100.0,100.0,8.0,8.0,15.0,0.36363636363636365,0.37142857142857144,12.0,46.1
+2016.0,128.0,121.0,47.0,50.7,49.9,72.0,63.0,6.4,6.6,9.5,10.0,5.9,100.0,100.0,8.0,2.5,15.0,0.5390625,0.3884297520661157,69.0,57.1
